@@ -21,4 +21,4 @@
 | 1200 | sleep | sleep | sleep |
 
 ***My screen cap***
-![cmd](3250 p2 capscreen.png)
+![cmd](123.png)
